@@ -4,11 +4,13 @@
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
+- You can ask questions via opening an issue.
 
 ### Kurallar🇹🇷
 
 - Sorunuzun daha önce cevaplanmadığından emin olun.
 - Anlaşılır bir başlık ve tanım kullanın.
+- "Issue" oluşturararak sorularınızı sorabilirsiniz.
 
 ### Follow me!🇬🇧 | 🇹🇷Beni takip edin!
 ---
