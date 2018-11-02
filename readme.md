@@ -1,27 +1,31 @@
-# Ask me anything!
+# Ask me anything!🇬🇧 | 🇹🇷Bana soru sor!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
-
-I get a lot of questions by email. This way anyone can read the answer!
-
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
----
-
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
----
-
-### Guidelines
+### Guidelines🇬🇧
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
 
-### Links
+### Kurallar🇹🇷
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
+- Sorunuzun daha önce cevaplanmadığından emin olun.
+- Anlaşılır bir başlık ve tanım kullanın.
+
+### Follow me!🇬🇧 | 🇹🇷Beni takip edin!
+---
+
+<div align="center">
+  <a href="https://www.medium.com/@kahyalar">
+    <img src="https://cdn-images-1.medium.com/max/1600/1*emiGsBgJu2KHWyjluhKXQw.png" width="40">
+  </a>
+  <a href="https://www.twitter.com/kahyalar">
+    <img src="https://image.freepik.com/free-icon/twitter-logo_318-40459.jpg" width="40">
+  </a>
+  <a href="https://kahyalar.xyz">
+    <img src="https://png2.kisspng.com/sh/5dcdb52f7c96dfd866d01e0dc7915a67/L0KzQYm3VMIxN5d3iZH0aYP2gLBuTgdwep1pRdl1b3LoPbTzigAuaaN5ReluYoPshLa0jP9od146edYEYUG3SbK8gBY6Pl84TKQEOUC6RYK8UsQzOWM1TKMBN0m1PsH1h5==/kisspng-world-globe-clip-art-website-logo-5ad9a149a5cf96.3429907515242120416792.png" width="40">
+  </a>
+  <a href="https://www.github.com/kahyalar">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40">
+  </a>
+</div>
+
+---
